@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+#menu1{
+ display: flex;
+ justify-content: space-between;
+ width: 500px;
+ 
+}
+#menu2{
+    display: flex;
+    justify-content: end;
+   }
